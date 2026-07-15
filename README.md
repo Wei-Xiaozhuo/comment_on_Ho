@@ -37,3 +37,10 @@ Figure 3: Earthquake depths located with and without the near source stations. T
   <img src="figures/figure4.png" alt="Figure 4" width="700"><br>
 </p>
 Figure 4: Location and waveforms of station STAR, and earthquake depths located with and without the station. (A) The location of the new station STAR with respect to the earthquake locations reported by Ho et al. and the seismic stations used in their study. (B) The waveforms of two earthquakes reported by Ho et al. recorded on the new station STAR, filtered between 1 and 10 Hz, along with the manually picked P- and S-wave arrival times. The predicted arrival times from the locations in Ho et al. and in this study are also plotted. (C) The earthquake depths with and without the new station STAR.
+
+References:
+1. L. M. Ho, J. L. Sánchez-Roldán, S. E. Hansen, J. I. Walter, Upper-mantle earthquakes beneath East Antarctica. Science 392 (6801), 942–945 (2026).
+2. S. Danesi, S. Bannister, A. Morelli, Repeating earthquakes from rupture of an asperity under an Antarctic outlet glacier. Earth and Planetary Science Letters 253 (1-2), 151–158 (2007).
+3. L.K.Zoet,S.Anandakrishnan,R.B.Alley,A.A.Nyblade,D.A.Wiens,MotionofanAntarctic glacier by repeated tidally modulated earthquakes. Nature Geoscience 5 (9), 623–626 (2012).
+4. S. Danesi, et al., Ice mass discharge through the Antarctic subglacial hydrographic network as a trigger for cryoseismicity. Journal of Glaciology 71, e89 (2025).
+5. A. Lomax, J. Virieux, P. Volant, C. Berge-Thierry, Probabilistic earthquake location in 3D and layered models: Introduction of a Metropolis-Gibbs method and comparison with linear locations, in Advances in seismic event location (Springer), pp. 101–134 (2000).
