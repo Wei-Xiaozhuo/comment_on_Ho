@@ -61,6 +61,6 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
 **References:**
 1. L. M. Ho, J. L. Sánchez-Roldán, S. E. Hansen, J. I. Walter, Upper-mantle earthquakes beneath East Antarctica. Science 392 (6801), 942–945 (2026).
 2. S. Danesi, S. Bannister, A. Morelli, Repeating earthquakes from rupture of an asperity under an Antarctic outlet glacier. Earth and Planetary Science Letters 253 (1-2), 151–158 (2007).
-3. L.K.Zoet,S.Anandakrishnan,R.B.Alley,A.A.Nyblade,D.A.Wiens,MotionofanAntarctic glacier by repeated tidally modulated earthquakes. Nature Geoscience 5 (9), 623–626 (2012).
+3. L.K.Zoet, S. Anandakrishnan, R. B. Alley, A. A. Nyblade, D. A. Wiens, Motion of an Antarctic glacier by repeated tidally modulated earthquakes. Nature Geoscience 5 (9), 623–626 (2012).
 4. S. Danesi, et al., Ice mass discharge through the Antarctic subglacial hydrographic network as a trigger for cryoseismicity. Journal of Glaciology 71, e89 (2025).
 5. A. Lomax, J. Virieux, P. Volant, C. Berge-Thierry, Probabilistic earthquake location in 3D and layered models: Introduction of a Metropolis-Gibbs method and comparison with linear locations, in Advances in seismic event location (Springer), pp. 101–134 (2000).
