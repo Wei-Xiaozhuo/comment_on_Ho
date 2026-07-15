@@ -29,21 +29,25 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
 <p align="center">
   <img src="figures/figure1.png" alt="Figure 1" width="800"><br>
 </p>
+
 **Figure 1: Earthquake depth distribution with respect to minimum arrival time pick distance range.** (A) The earthquake depths plotted against their minimum arrival time pick distances. (B) The earthquake depth distribution where the minimum arrival time pick distance is between 0 and 50 km. (C) The same as panel (B), but the minimum arrival time pick distance is between 50 and 100 km. (D) The same as panel (B), but the minimum arrival time pick distance is between 100 and 160 km. (E) The same as panel (B), but the minimum arrival time pick distance is between 160 and 200 km.
 
 <p align="center">
   <img src="figures/figure2.png" alt="Figure 2" width="800"><br>
 </p>
+
 **Figure 2: Temporal distribution of earthquake depths with respect to minimum station distance from the David Glacier.** (A) During 2001-2003. (B) During 2012-2015.
 
 <p align="center">
   <img src="figures/figure3.png" alt="Figure 3" width="700"><br>
 </p>
+
 **Figure 3: Earthquake depths located with and without the near source stations.** The near source stations are defined as stations within 100 km of the earthquakes.
 
 <p align="center">
   <img src="figures/figure4.png" alt="Figure 4" width="700"><br>
 </p>
+
 **Figure 4: Location and waveforms of station STAR, and earthquake depths located with and without the station.** (A) The location of the new station STAR with respect to the earthquake locations reported by Ho et al. and the seismic stations used in their study. (B) The waveforms of two earthquakes reported by Ho et al. recorded on the new station STAR, filtered between 1 and 10 Hz, along with the manually picked P- and S-wave arrival times. The predicted arrival times from the locations in Ho et al. and in this study are also plotted. (C) The earthquake depths with and without the new station STAR.
 
 <br><br>
